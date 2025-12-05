@@ -1,0 +1,1 @@
+# Tugas10_IndiraSuciFitriani552010125006.py
